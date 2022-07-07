@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a2c8b4e.css",
-    "main.js": "/static/js/main.ce6d050a.js",
-    "static/media/Pokemon Hollow.ttf": "/static/media/Pokemon Hollow.47f77ce9939c5330492b.ttf",
-    "static/media/Pokemon Solid.ttf": "/static/media/Pokemon Solid.5d60be1f7ff5fcc21fc1.ttf",
-    "index.html": "/index.html",
-    "static/media/Design.svg": "/static/media/Design.4b2410654d97773e29d75bdab874705f.svg",
-    "main.7a2c8b4e.css.map": "/static/css/main.7a2c8b4e.css.map",
-    "main.ce6d050a.js.map": "/static/js/main.ce6d050a.js.map"
+    "main.css": "/shivamchhapola/pokecards/static/css/main.6cf530b4.css",
+    "main.js": "/shivamchhapola/pokecards/static/js/main.e39e3d4f.js",
+    "static/media/Pokemon Hollow.ttf": "/shivamchhapola/pokecards/static/media/Pokemon Hollow.47f77ce9939c5330492b.ttf",
+    "static/media/Pokemon Solid.ttf": "/shivamchhapola/pokecards/static/media/Pokemon Solid.5d60be1f7ff5fcc21fc1.ttf",
+    "index.html": "/shivamchhapola/pokecards/index.html",
+    "static/media/Design.svg": "/shivamchhapola/pokecards/static/media/Design.4b2410654d97773e29d75bdab874705f.svg",
+    "main.6cf530b4.css.map": "/shivamchhapola/pokecards/static/css/main.6cf530b4.css.map",
+    "main.e39e3d4f.js.map": "/shivamchhapola/pokecards/static/js/main.e39e3d4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a2c8b4e.css",
-    "static/js/main.ce6d050a.js"
+    "static/css/main.6cf530b4.css",
+    "static/js/main.e39e3d4f.js"
   ]
 }
