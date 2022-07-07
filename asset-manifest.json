@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/pokecards/static/css/main.2437440b.css",
-    "main.js": "/pokecards/static/js/main.4b7e1a59.js",
+    "main.js": "/pokecards/static/js/main.351a77f4.js",
     "static/media/Pokemon Hollow.ttf": "/pokecards/static/media/Pokemon Hollow.47f77ce9939c5330492b.ttf",
     "static/media/Pokemon Solid.ttf": "/pokecards/static/media/Pokemon Solid.5d60be1f7ff5fcc21fc1.ttf",
     "index.html": "/pokecards/index.html",
     "static/media/Design.svg": "/pokecards/static/media/Design.4b2410654d97773e29d75bdab874705f.svg",
     "main.2437440b.css.map": "/pokecards/static/css/main.2437440b.css.map",
-    "main.4b7e1a59.js.map": "/pokecards/static/js/main.4b7e1a59.js.map"
+    "main.351a77f4.js.map": "/pokecards/static/js/main.351a77f4.js.map"
   },
   "entrypoints": [
     "static/css/main.2437440b.css",
-    "static/js/main.4b7e1a59.js"
+    "static/js/main.351a77f4.js"
   ]
 }
